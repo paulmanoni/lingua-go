@@ -1,4 +1,4 @@
-module github.com/paulmanoni/lingua-go
+module github.com/pemistahl/lingua-go
 
 go 1.18
 
